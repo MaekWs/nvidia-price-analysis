@@ -1,0 +1,11 @@
+pandas>=2.0
+numpy>=1.25
+yfinance>=0.2
+pandas-datareader>=0.10
+statsmodels>=0.14
+matplotlib>=3.7
+seaborn>=0.12
+requests>=2.31
+jupyter>=1.0
+ipykernel>=6.0
+openpyxl>=3.1
